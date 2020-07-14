@@ -1,0 +1,12 @@
+body {
+    background: slateblue;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1 a {
+    color: pink;
+}
+
+h2 a {
+    color: ivory;
+}
